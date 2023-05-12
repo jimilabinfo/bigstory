@@ -2,11 +2,11 @@
 
 JM、博S结、谷米、安T宝: thanks for your feedback.
 
-Send to JMlab@proton.me if you have some interesting story.
+Send to jimilab@duck.com if you have some interesting story.
 This story is purely fictitious written by ChatGPT.
 This story will be continuously updated.
 Please keep a screenshot as this page will be closed at any time.
-如果你也有一些有趣的故事，请发送给 JMlab@proton.me。
+如果你也有一些有趣的故事，请发送给 jimilab@duck.com。
 这个故事纯粹是ChatGPT虚构的。
 这个故事将不断更新。
 请保留屏幕截图，因为此页面将随时关闭。
