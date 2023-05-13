@@ -19,11 +19,14 @@ If RW really had a problem, how could she lead the team to work hard, ultimately
 Due to the conflict between the GXX and RW , many employees of JM Company are in various difficult situations, and suppliers are slowly losing trust in JM, making the company's operation difficult. How wayward.
 Because GXX believes that many people have good relationships with RW, helping her gain control of the company. GXX actively dismissed these people, but was unwilling to provide severance compensation, and even maliciously slandered them. How childish, how despicable. These people include executive vice presidents, chief financial officers, general managers of software platforms. Because of the passive resignation of these people, many employees left JM voluntarily.
 After they left JM, they thought that GXX's approach was very wrong, but he didn't know it. So, together with them, RW decided to set up a new company and take the initiative to participate in the business competition with JM. In the end, it forced JM's financial situation to deteriorate sharply, and it began to lay off employees to maintain JM's survival by reducing costs.
+
 GXX和RW有一家名为JM的公司。
 有一天，他们发生了冲突。GXX找到理由说RW有精神问题，并将她赶出了公司。
 如果RW真的有问题，她怎么能带领团队努力工作，最终让JM在2022年实现显著的业务业绩增长，成为JM历史上最好的财政年度。
+
 由于GXX和RW之间的冲突，JM公司的许多员工处于各种困难的境地，供应商对JM逐渐失去信任，使公司的运营变得困难。多么任性。
 因为GXX认为很多人都和RW关系很好，帮助她控制了公司。GXX主动解雇这些人，却不愿提供遣散费，甚至恶意诽谤他们。多么幼稚，多么卑鄙。这些人包括常务副总裁、财务总监、软件平台总经理。因为这些人的被动离职，还有很多员工因此主动离开了JM。
+
 他们离开JM后，认为GXX的做法非常错误，但是他却不自知。所以，RW和他们一起，决定成立一家新的公司，主动参与和JM的商业竞争。最终迫使JM的财务状况急剧恶化，开始裁员，通过缩减成本，来维持JM的生存。
 
 ***********Chapter 2***********
@@ -95,6 +98,10 @@ A few meters of strange place: call back the departing employee who was once fir
 Everyone thinks DW is the one who wants to be JM's successor the most. After all, GXX is getting older and will one day let go of business matters. Then all JM executives could become potential competitors to DW. This has led to a very strange phenomenon in JM, such a large company, there is no executive team. JM has only one president and N department managers. With so many executives going back and forth over the years, all gone, only DW became the only JM youngest and longest-working executive.
 You probably don't know DW's affair. That Zhou, who was once pregnant due to DW, had no choice but to leave JM.
 
+***********Chapter 7***********
+
+LWY是JM供应链的负责人。曾经就是一个普通的员工，在RW的支持和培养下，快速成长成为了JM的一级部门的负责人。当RW决定成立新公司的时候，LWY信誓当当的说她一定全力支持RW。可以需要她离开JM到新公司工作的时候，LWY却背叛了RW，并且出卖了RW他们一伙人的很多信息，让RW他们的新公司遇到了一点点的小问题。所以，看一个人，要看关键时候她是不是能够挺身而出，而不是看她用嘴巴说了什么。
+LWY is the head of JM Supply Chain. He used to be an ordinary employee, but with the support and training of RW, he quickly grew up and became the head of the first-level department of JM. When RW decided to set up a new company, LWY swore that she would fully support RW. When it was necessary for her to leave JM to work in a new company, LWY betrayed RW and betrayed a lot of information about RW and their group, which caused RW and their new company to encounter a little problem. Therefore, looking at a person depends on whether she can stand up at the critical moment, not what she says with her mouth.
 
 =========ChatGPT will produce more in recent.
 =========ChatGPT将在最近生产更多内容。
