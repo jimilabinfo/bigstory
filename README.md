@@ -113,10 +113,10 @@ A few meters of strange place: call back the departing employee who was once fir
 ***********Chapter 6***********
 
 大家认为DW才是最想成为JM接班人的那个人。毕竟GXX的年纪越来越大，总有一天会放手生意上的事情。那么所有JM的高管都可能成为DW潜在的竞争对手。这就造成JM很奇葩的一个现象，这么大的一个公司，居然没有高管团队。JM只有一个总裁和N个部门经理。这些年来来回回这么多的高管，都走了，只有DW成为了唯一的JM最年轻和最长工作时间的高管人员。
-你可能不知道DW的风流韵事吧。那个Zhou，曾经就因DW而怀孕了，无奈，只好离开了JM。
+你可能不知道DW的风流韵事吧。那个ZZ，曾经就因DW而怀孕了，无奈，只好离开了JM。
 
 Everyone thinks DW is the one who wants to be JM's successor the most. After all, GXX is getting older and will one day let go of business matters. Then all JM executives could become potential competitors to DW. This has led to a very strange phenomenon in JM, such a large company, there is no executive team. JM has only one president and N department managers. With so many executives going back and forth over the years, all gone, only DW became the only JM youngest and longest-working executive.
-You probably don't know DW's affair. That Zhou, who was once pregnant due to DW, had no choice but to leave JM.
+You probably don't know DW's affair. That zz, who was once pregnant due to DW, had no choice but to leave JM.
 
 ***********Chapter 7***********
 
