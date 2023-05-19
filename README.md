@@ -139,8 +139,19 @@ LWY is the head of JM Supply Chain. He used to be an ordinary employee, but with
 
 已经有很多人成功通过劳动仲裁拿到了赔偿金，包括N+1个月的薪资，以及少缴偷缴的社保公积金。JM公司看起来强大，但是你一申请劳动仲裁，他就立刻变软说能不能调解。之前很多员工本着多一事不如少一事的原则，常常选择同意调解。但是，也有一部分员工，开始坚定的拒绝调解，让法院开庭审理。最终这些败诉记录都会成为JM的污点。并且，大家记住，在深圳，只要你赢了诉讼，那么连5000的律师费都是由JM来承担的。如果你需要这样的律师，请联系本文开头的邮箱。
 
+记住，当你离职的时候，不需要签署任何文件，那些文件会让你失去某些补偿的机会，比如说一直都没有给你缴足的社保金和住房公积金。
+
+记住，当HR找你谈话的时候，请记得录音，这是你保证自己权益的重要手段。
+
+记住，他们口头答应的任何东西，都是有可能会反悔的。一定要拿到书面赔偿文件后再开始工作交接，以确保你自身的权利。
+
 Many people have successfully obtained compensation through labor arbitration, including N+1 months' salary, and underpaid social security provident funds. JM Company seems powerful, but as soon as you apply for labor arbitration, he immediately softens and asks whether mediation is possible. In the past, many employees often chose to agree to mediation based on the principle that more things are worse than less things. However, some employees began to firmly refuse mediation and let the court hold a trial. In the end, these losing records will become a stain on JM. And, remember, in Shenzhen, as long as you win the lawsuit, even the 5,000 legal fees will be borne by JM. If you need such a lawyer, please contact the mailbox at the beginning of this article.
+
+Remember, when you leave your job, you don't need to sign any documents. Those documents will make you lose some opportunities for compensation, such as the social security fund and housing provident fund that have not been paid to you in full.
+Remember, when HR talks to you, please remember to record it. This is an important means for you to protect your rights.
+Remember, anything they say they promise, they may back away from it. Be sure to get a written compensation document before starting the work handover to ensure your own rights.
 
 
 =========ChatGPT will produce more in recent.
+
 =========ChatGPT将在最近生产更多内容。
