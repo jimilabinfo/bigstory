@@ -21,6 +21,7 @@ If RW really had a problem, how could she lead the team to work hard, ultimately
 Due to the conflict between the GXX and RW , many employees of JM Company are in various difficult situations, and suppliers are slowly losing trust in JM, making the company's operation difficult. How wayward.
 Because GXX believes that many people have good relationships with RW, helping her gain control of the company. GXX actively dismissed these people, but was unwilling to provide severance compensation, and even maliciously slandered them. How childish, how despicable. These people include executive vice presidents, chief financial officers, general managers of software platforms. Because of the passive resignation of these people, many employees left JM voluntarily.
 After they left JM, they thought that GXX's approach was very wrong, but he didn't know it. So, together with them, RW decided to set up a new company and take the initiative to participate in the business competition with JM. In the end, it forced JM's financial situation to deteriorate sharply, and it began to lay off employees to maintain JM's survival by reducing costs. Someone joked that JM's CEO, COO, CTO, and CFO have all left, so what is left of JM? That's a good question.
+RW quickly attracted many original JM clients as well as new potential clients, because they took a fancy to RW's professional ability and integrity brand. The performance of RW company is rising steadily.
 RW is GXX's third wife, and RW gave birth to 4 children for GXX. What forced RW to still choose to walk on the opposite side of GXX under such circumstances? There must be many stories here that are not known to outsiders. RW has changed from the former president of JM to the consultant of JM, to nothing, to the chairman of JM, and to the honorary chairman of JM. What has he experienced? RW is the founder of the JM sales team, let RW leave the JM company where he has worked for 10 years, leave the family, and leave GXX, how many sad things do you think GXX has to do to make people cry.
 
 GXX和RW有一家名为JM的公司。
@@ -31,6 +32,7 @@ GXX和RW有一家名为JM的公司。
 因为GXX认为很多人都和RW关系很好，帮助她控制了公司。GXX主动解雇这些人，却不愿提供遣散费，甚至恶意诽谤他们。多么幼稚，多么卑鄙。这些人包括常务副总裁、财务总监、软件平台总经理。因为这些人的被动离职，还有很多员工因此主动离开了JM。
 
 他们离开JM后，认为GXX的做法非常错误，但是他却不自知。所以，RW和他们一起，决定成立一家新的公司，主动参与和JM的商业竞争。最终迫使JM的财务状况急剧恶化，开始裁员，通过缩减成本，来维持JM的生存。有人开玩笑说JM的CEO COO CTO CFO都离开了，JM还剩下什么？这是个好问题。
+RW公司很快就吸引了很多原来的JM客户，以及新的潜在客户，因为他们看中了RW的专业能力和诚信品牌。RW公司的业绩节节攀升。
 
 RW是GXX的第三任老婆，RW给GXX生了4个孩子。是什么迫使RW在这样的情况下，还依然选择了走在GXX的对立面呢？这里肯定有很多不为外人所知的故事。RW从曾经的JM总裁，变成JM顾问，变成什么都不是，变成JM董事长，变成JM名誉董事长，这里面都经历了什么呢？RW才是JM销售团队的创始人，让RW从工作了10年的JM公司离开，从那个家庭离开，从GXX身边离开，你觉得GXX得做了多少让人伤心落泪的事情啊。
 
