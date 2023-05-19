@@ -104,11 +104,16 @@ JM的产品出货量在持续下滑。最近几个月里，每个月的出货量
 这么些年，JM一直不太愿意在核心算法等方面进行技术投资。所以，在基于gsensor的急加速、急减速、急转弯、碰撞检测等方面，产品性能表现一般。在DVR产品领域，也几乎没有任何核心技术的投入。
 JM整个公司，硕士研究生学历的人都非常非常少，这在中国的科技公司里非常罕见。JM公司的研发人员，还有一部分专科生。所以，JM看起来不太像一个科技公司，而是一个贸易公司，JM只是在GPS和通信芯片方面的基础上，进行了集成开发。
 
+这和这个公司实际控制人，GXX，的学识学历、战略眼光、长远谋划的能力有极大的关系。他是学硬件开发的，又不能授权给其它高管来决策和实施长远的技术战略。
+
 JM's product shipments continue to decline. In recent months, shipments have been just over 300,000 units per month, down 30 percent. As a result, the risk of JM's cash flow drying up is rising significantly. That's why there are all kinds of layoffs above.
 Moreover, the funds occupied by JM's inventory products and raw materials are growing rapidly.
 
 Over the years, JM has been reluctant to invest in technology such as core algorithms. Therefore, in terms of rapid acceleration, rapid deceleration, sharp turn, collision detection, etc. based on gsensor, the performance of the product is average. In the field of DVR products, there is almost no investment in any core technology.
 In JM's entire company, there are very, very few people with a master's degree, which is very rare in Chinese technology companies. R & D personnel of JM Company, and some junior college students. Therefore, JM does not look like a technology company, but a trading company. JM only conducts integrated development on the basis of GPS and communication chips.
+
+This has a lot to do with the company's actual controller, GXX,'s academic qualifications, strategic vision, and long-term planning capabilities. He learned hardware development, but he could not authorize other executives to make decisions and implement long-term technology strategies.
+
 
 ***********Chapter 5***********
 
