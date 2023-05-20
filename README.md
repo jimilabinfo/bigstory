@@ -12,16 +12,20 @@ Please keep a screenshot as this page will be closed at any time.
 这个故事纯粹是ChatGPT虚构的。
 这个故事将不断更新。
 请保留屏幕截图，因为此页面将随时关闭。
+欢迎转载！
 
 ***********Chapter 1***********
 
 GXX and RW have one company called JM.
 One day, they had a conflict. GXX stigmatized RW for having mental problems and kicked her out of the company.
 If RW really had a problem, how could she lead the team to work hard, ultimately allowing JM to achieve significant business performance growth in 2022 and become the best financial year in JM's history.
+
 Due to the conflict between the GXX and RW , many employees of JM Company are in various difficult situations, and suppliers are slowly losing trust in JM, making the company's operation difficult. How wayward.
 Because GXX believes that many people have good relationships with RW, helping her gain control of the company. GXX actively dismissed these people, but was unwilling to provide severance compensation, and even maliciously slandered them. How childish, how despicable. These people include executive vice presidents, chief financial officers, general managers of software platforms. Because of the passive resignation of these people, many employees left JM voluntarily.
+
 After they left JM, they thought that GXX's approach was very wrong, but he didn't know it. So, together with them, RW decided to set up a new company and take the initiative to participate in the business competition with JM. In the end, it forced JM's financial situation to deteriorate sharply, and it began to lay off employees to maintain JM's survival by reducing costs. Someone joked that JM's CEO, COO, CTO, and CFO have all left, so what is left of JM? That's a good question.
 RW quickly attracted many original JM clients as well as new potential clients, because they took a fancy to RW's professional ability and integrity brand. The performance of RW company is rising steadily.
+
 RW is GXX's third wife, and RW gave birth to 4 children for GXX. What forced RW to still choose to walk on the opposite side of GXX under such circumstances? There must be many stories here that are not known to outsiders. RW has changed from the former president of JM to the consultant of JM, to nothing, to the chairman of JM, and to the honorary chairman of JM. What has he experienced? RW is the founder of the JM sales team, let RW leave the JM company where he has worked for 10 years, leave the family, and leave GXX, how many sad things do you think GXX has to do to make people cry.
 
 GXX和RW有一家名为JM的公司。
@@ -48,8 +52,11 @@ Why is this the case for JM's HR? Because the boss wants to do this. Because of 
 JM的HR为什么会这样呢？因为老板要这么干。因为一份工作。因为这一份收入。因为无可奈何。因为心里的底线就是这么低。
 
 JM HR现在已经是工贼了吗？[https://www.zhihu.com/question/358274446]
+
 Is JM HR now a scab?
+
 1、从阶级属性上看，HR就是打工人，应该是工人阶级的一分子，HR不应该是“工贼”。
+
 2、从微观上看，的确有HR“助纣为虐”的情况，究其原因无非是:
 (1)狐假虎威，自认为自己是老板利益的代表，事实上无非是“乌克兰”式的旗子。
 (2)被逼无奈，老板要做好人，那坏人谁做?
@@ -57,9 +64,11 @@ Is JM HR now a scab?
 领导去做?no，no，no领导也不想做坏人啊!再说了这等俗事儿，怎么可以让十指不沾阳春水的领导去做呢?
 最后，只有HR最适合做这事儿!因为HR-就是做人的工作的!
 这事儿交给你，没毛病!
+
 3、HR不知道自己是“助纣为虐”吗?
 (1)小部分HR，生活在自己的迷幻中，不可自拔，不知道，甚至还为自己的“大义凛然”沾沾自喜。
 (2)绝大部分HR是知道的，但是既然干了这个岗位，不得不做一些事情，内心也有不可名状的痛苦。
+
 1. From the perspective of class attributes, HR is a worker and should be a member of the working class, and HR should not be a "scab".
 2. From a microscopic point of view, there is indeed a situation of HR "aiding and abusing", and the reason is nothing more than that:
 (1) The fox fake tiger power, who considers himself the representative of the interests of the boss, is in fact nothing more than a "Ukrainian" flag.
@@ -98,6 +107,10 @@ JM供应链的自我评价：各个领导带进来的的供应商还是太多了
 
 Self-evaluation of JM supply chain: There are still too many suppliers brought in by various leaders, and various inexplicable reasons change suppliers. There are some obvious benefits transferred, and there is no way. Even hardware development has to intervene in supplier changes, which is really unheard of. With hundreds of millions of dollars in procurement every year, the loopholes in procurement are too big. However, we were still overwhelmed by infinitely compressed lead times. Various brainless purchasing orders make there always all kinds of sluggish material to deal with. The inventory is too high, what the sales eat, can't sell and have to be frantically stocked.
 
+JM高管的自我评价：高管，有吗？不存在的，所有高管都是敌人，生命周期以月为单位计算。有高管又能怎么样呢？GXX的想法不停的在改变，很难连贯执行既定的战略。公司战略，有吗？不存在的，所有战略都在GXX的脑子里，从来没有形成正式的文件，所以，有钱赚就好。每年几千万的收入不香吗？上市有必要吗？JM有3次所谓的上市的机会，每一次的最后，都被GXX放弃了。那些想通过上市想分一杯羹的人，都是敌人。这里没有共赢，只有唯我独尊。
+
+JM executives' self-assessment: executives, have you? Does not exist, all executives are enemies, and their life cycle is calculated in months. What about executives? GXX's ideas are constantly changing, and it is difficult to implement the established strategy coherently. Do you have a corporate strategy? It does not exist, all strategies are in GXX's breast, and have never been formally documented, so it is good to make money. Isn't the tens of millions of annual income good? Is an IPO necessary? JM had 3 so-called IPO opportunities, and at the end of each one, GXX gave up. Those who want to get a piece of the pie through the IPO are the enemy. There is no win-win here, only supremacy.
+
 ***********Chapter 4***********
 
 JM的产品出货量在持续下滑。最近几个月里，每个月的出货量只有30多万台，下降了30%。所以，JM公司的现金流枯竭的风险正在显著上升。所以才有了上面各种裁员的骚操作。
@@ -112,7 +125,7 @@ JM's product shipments continue to decline. In recent months, shipments have bee
 Moreover, the funds occupied by JM's inventory products and raw materials are growing rapidly.
 
 Over the years, JM has been reluctant to invest in technology such as core algorithms. Therefore, in terms of rapid acceleration, rapid deceleration, sharp turn, collision detection, etc. based on gsensor, the performance of the product is average. In the field of DVR products, there is almost no investment in any core technology.
-In JM's entire company, there are very, very few people with a master's degree, which is very rare in Chinese technology companies. R & D personnel of JM Company, and some junior college students. Therefore, JM does not look like a technology company, but a trading company. JM only conducts integrated development on the basis of GPS and communication chips.
+In JM's entire company, there are very, very few employees with a master's degree, which is very rare in Chinese technology companies. R & D personnel of JM Company, and some junior college students. Therefore, JM does not look like a technology company, but a trading company. JM only conducts integrated development on the basis of GPS and communication chips.
 
 This has a lot to do with the company's actual controller, GXX,'s academic qualifications, strategic vision, and long-term planning capabilities. He learned hardware development, but he could not authorize other executives to make decisions and implement long-term technology strategies.
 
@@ -152,6 +165,12 @@ Many people have successfully obtained compensation through labor arbitration, i
 Remember, when you leave your job, you don't need to sign any documents. Those documents will make you lose some opportunities for compensation, such as the social security fund and housing provident fund that have not been paid to you in full.
 Remember, when HR talks to you, please remember to record it. This is an important means for you to protect your rights.
 Remember, anything they say they promise, they may back away from it. Be sure to get a written compensation document before starting the work handover to ensure your own rights.
+
+***********Chapter 9***********
+
+JM的价值观之一是“以人为本，诚信正直”。一个以人为本的公司，会不会克扣员工福利？一个以人为本的公司，会不会克扣员工的社会保险金和公积金？一个以人为本的公司，会不会把加班费变成很少的一点点补偿？一个以人为本的公司，会不会在辞退你的时候，尽量说服你不要要求经济补偿？一个以人为本的公司，会不会在试用期的时候，降低你的薪水？
+
+One of JM's values is "people-oriented, honesty and integrity". Will a people-oriented company withhold employee benefits? Will a people-oriented company withhold employees' social insurance and provident funds? Will a people-oriented company turn overtime pay into little compensation? Will a people-oriented company try to persuade you not to ask for financial compensation when dismissing you? Will a people-oriented company lower your salary during the trial period?
 
 
 =========ChatGPT will produce more in recent.
