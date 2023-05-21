@@ -113,6 +113,8 @@ Self-evaluation of JM supply chain: There are still too many suppliers brought i
 JM的产品出货量在持续下滑。最近几个月里，每个月的出货量只有30多万台，下降了30%。所以，JM公司的现金流枯竭的风险正在显著上升。所以才有了上面各种裁员的骚操作。
 并且，JM的库存产品和原材料占用的资金在快速增长。
 
+这里很大问题在于没有有效的科学的管理体系。在一个400多人的公司里，副总级别的管理团队的缺失，也必然导致这样的结果。因为没有分管VP，各种跨部门的工作可能就很难协调开展，或者说很难做深入的分析、调整和优化。而每一次扯皮，都需要董事长来亲自沟通协调。哪怕董事长有三头六臂，也很难处理得过来吧。所以，从这里一点来看，GXX并不希望公司IPO，因为那样就会打破现在的公司治理结构，他也会担心有人来分走他更多的利益。
+
 这么些年，JM一直不太愿意在核心算法等方面进行技术投资。所以，在基于gsensor的急加速、急减速、急转弯、碰撞检测等方面，产品性能表现一般。在DVR产品领域，也几乎没有任何核心技术的投入。
 JM整个公司，硕士研究生学历的人都非常非常少，这在中国的科技公司里非常罕见。JM公司的研发人员，还有一部分专科生。所以，JM看起来不太像一个科技公司，而是一个贸易公司，JM只是在GPS和通信芯片方面的基础上，进行了集成开发。
 
@@ -120,6 +122,8 @@ JM整个公司，硕士研究生学历的人都非常非常少，这在中国的
 
 JM's product shipments continue to decline. In recent months, shipments have been just over 300,000 units per month, down 30 percent. As a result, the risk of JM's cash flow drying up is rising significantly. That's why there are all kinds of layoffs above.
 Moreover, the funds occupied by JM's inventory products and raw materials are growing rapidly.
+
+The big problem here is that there is no effective scientific management system. In a company with more than 400 people, the lack of a vice president-level management team will inevitably lead to such a result. Because there is no VP in charge, it may be difficult to coordinate various cross-departmental work, or it may be difficult to do in-depth analysis, adjustment and optimization. And every time you argue, you need the chairman to personally communicate and coordinate. Even if the chairman has three heads and six arms, it will be difficult to handle it. Therefore, from this point of view, GXX does not want the company to IPO, because that will break the current corporate governance structure, and he will also worry that someone will take away more of his interests.
 
 Over the years, JM has been reluctant to invest in technology such as core algorithms. Therefore, in terms of rapid acceleration, rapid deceleration, sharp turn, collision detection, etc. based on gsensor, the performance of the product is average. In the field of DVR products, there is almost no investment in any core technology.
 In JM's entire company, there are very, very few employees with a master's degree, which is very rare in Chinese technology companies. R & D personnel of JM Company, and some junior college students. Therefore, JM does not look like a technology company, but a trading company. JM only conducts integrated development on the basis of GPS and communication chips.
