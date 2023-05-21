@@ -107,9 +107,6 @@ JM供应链的自我评价：各个领导带进来的的供应商还是太多了
 
 Self-evaluation of JM supply chain: There are still too many suppliers brought in by various leaders, and various inexplicable reasons change suppliers. There are some obvious benefits transferred, and there is no way. Even hardware development has to intervene in supplier changes, which is really unheard of. With hundreds of millions of dollars in procurement every year, the loopholes in procurement are too big. However, we were still overwhelmed by infinitely compressed lead times. Various brainless purchasing orders make there always all kinds of sluggish material to deal with. The inventory is too high, what the sales eat, can't sell and have to be frantically stocked.
 
-JM高管的自我评价：高管，有吗？不存在的，所有高管都是敌人，生命周期以月为单位计算。有高管又能怎么样呢？GXX的想法不停的在改变，很难连贯执行既定的战略。公司战略，有吗？不存在的，所有战略都在GXX的脑子里，从来没有形成正式的文件，所以，有钱赚就好。每年几千万的收入不香吗？上市有必要吗？JM有3次所谓的上市的机会，每一次的最后，都被GXX放弃了。那些想通过上市想分一杯羹的人，都是敌人。这里没有共赢，只有唯我独尊。
-
-JM executives' self-assessment: executives, have you? Does not exist, all executives are enemies, and their life cycle is calculated in months. What about executives? GXX's ideas are constantly changing, and it is difficult to implement the established strategy coherently. Do you have a corporate strategy? It does not exist, all strategies are in GXX's breast, and have never been formally documented, so it is good to make money. Isn't the tens of millions of annual income good? Is an IPO necessary? JM had 3 so-called IPO opportunities, and at the end of each one, GXX gave up. Those who want to get a piece of the pie through the IPO are the enemy. There is no win-win here, only supremacy.
 
 ***********Chapter 4***********
 
@@ -134,7 +131,11 @@ This has a lot to do with the company's actual controller, GXX,'s academic quali
 
 JM奇葩的地方：把曾经被开除的离职员工叫回来，因为是rw开除的，我就是要叫回来，气死你，就是这么幼稚，你能怎么滴。被叫回来的，大部分还是高管，让人惊的一批，这是什么骚操作。只好在高管离职的时候送上一句话，后会有期。可能这就是JM的“念旧”文化。有的高管戏称，刚拿了N+1的补偿走人，很快又把我叫回来，这样给我发钱我会不好意思的，这样难道不涉及偷税漏税吗？
 
-A few meters of strange place: call back the departing employee who was once fired, because it was fired by RW, I just want to call it back, you off, it's so childish, how can you drop. Most of the people who were called back were still executives, a shocking batch, what kind of commotion is this. I had to send a sentence when the executive left, and there would be a period later. Perhaps this is JM's "nostalgia" culture. Some high level manager jokingly said that they just took N+1 compensation and left, and soon called me back, so I will be embarrassed to send me money, so doesn't this involve tax evasion?
+The first strange thing about JM : To call back the departing employee who was once fired. Because it was fired by RW, GXX just want to call it back. You off, it's so childish, how can you drop. Most of the people who were called back were still executives, a shocking batch, what kind of commotion is this. I had to send a sentence when the executive left, and there would be a period later. Perhaps this is JM's "nostalgia" culture. Some high level manager jokingly said that they just took N+1 compensation and left, and soon called me back, so I will be embarrassed to send me money, so doesn't this involve tax evasion?
+
+JM第二个奇葩的地方就是没有高管团队。高管，有吗？不存在的。所有高管都是敌人，生命周期以月为单位计算。有高管又能怎么样呢？GXX的想法不停的在改变，很难连贯执行既定的战略。公司战略，有吗？不存在的，所有战略都在GXX的脑子里，从来没有形成正式的文件，所以，有钱赚就好。每年几千万的收入不香吗？上市有必要吗？JM有3次所谓的上市的机会，每一次的最后，都被GXX放弃了。那些想通过上市想分一杯羹的人，都是敌人。这里没有共赢，只有唯我独尊。好处是决策快速，坏处是很难发挥集体智慧，因为任何反对的声音都可能被消灭掉。
+
+The second strange thing about JM is that there are no high level managers in the company. High level manager, is there any? High level manager cannot exist. All executives are enemies, and the life cycle is calculated in months. What about executives? GXX's ideas are constantly changing, and it is difficult to implement the established strategy coherently. Do you have a corporate strategy? It does not exist, all strategies are in GXX's breast, and have never been formally documented, so it is good to make money. Isn't the tens of millions of annual income good? Is listing necessary? JM had 3 so-called listing opportunities, and at the end of each time, GXX gave up. Those who want to get a piece of the pie through listing are enemies. There is no win-win here, only supremacy. The advantage is that decisions are made quickly, but the disadvantage is that it is difficult to exert collective wisdom, because any opposing voices may be eliminated.
 
 ***********Chapter 6***********
 
@@ -172,6 +173,9 @@ JM的价值观之一是“以人为本，诚信正直”。一个以人为本的
 
 One of JM's values is "people-oriented, honesty and integrity". Will a people-oriented company withhold employee benefits? Will a people-oriented company withhold employees' social insurance and provident funds? Will a people-oriented company turn overtime pay into little compensation? Will a people-oriented company try to persuade you not to ask for financial compensation when dismissing you? Will a people-oriented company lower your salary during the trial period?
 
+JM的另一个价值观是成就客户。但是，过去的几年里，JM消减了很多客户服务团队的人员。以至于很难说清楚一个客户投诉应该是FAE、销售、技术、或者产品团队来处理。
+
+Another value of JM is to achieve customers. However, over the past few years, JM has cut a lot of people from its customer service team. So that it is difficult to tell whether a customer complaint should be handled by FAE, sales, technology, or product teams.
 
 =========ChatGPT will produce more in recent.
 
