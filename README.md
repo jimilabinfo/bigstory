@@ -25,6 +25,11 @@ JM is someone's big toy. Because the following weird things will only happen in 
 这在中国的科技公司里非常罕见。JM公司的研发人员，还有一部分专科生。所以，JM看起来不太像一个科技公司，而是一个贸易公司，JM只是在GPS和通信芯片方面的基础上，进行了集成开发。  
 这和这个公司实际控制人Gao的学识学历、战略眼光、长远谋划的能力有极大的关系。他是学硬件开发的，又不能授权给其它高级管理者来决策和实施长远的技术战略。
 
+## 最奇葩的是，JM倔强的活到了现在  
+俗话说得好，一头猪站在风口上，也能飞起来。JM之前运气不错，有了一点资本、技术和人才的积累。  
+虽然几度IPO搁浅，虽然几度危机重重，JM之前有贵人相助，有了一次次翻身的奇迹。  
+但是，人散了，起运也会转折；势变了，奇迹终将离去。
+
 ## 1. There is no senior management team, only the chairman and department managers;  
 ## 2. Those who have been resigned will be pulled back to continue working;  
 ## 3. Have a huge hardware team to complete continuous hardware cost down;  
@@ -36,3 +41,8 @@ Remember, when you leave your job, you don't need to sign any documents. Those d
 Over the years, JM has been reluctant to invest in technology such as core algorithms. Therefore, in terms of rapid acceleration, rapid deceleration, sharp turn, collision detection, etc. based on gsensor, the performance of the product is not good. In the field of DVR products, there is almost no investment in any core technology.  
 It is very rare in Chinese technology companies. R & D personnel of JM Company, and some junior college students. Therefore, JM does not look like a technology company, but a trading company. JM only conducts integrated development on the basis of GPS and communication chips.  
 This has a lot to do with the company's actual controller, Gao,'s academic qualifications, strategic vision, and long-term planning capabilities. He learned hardware development, but he could not authorize other executives to make decisions and implement long-term technology strategies.  
+
+## The most amazing thing is that JM stubbornly survived till now  
+As the saying goes, a pig can fly if it stands on the wind. JM was lucky before, with a little accumulation of capital, technology and talents.  
+Although the IPO was stranded several times, although there were many crises several times, JM had the help of noble people before, and there were miracles of turning over again and again.  
+However, if the people are scattered, the fortune will also turn around; if the situation changes, the miracle will eventually leave.
