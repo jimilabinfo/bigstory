@@ -6,7 +6,7 @@ ChatGPT依然会努力工作！
 
 jimilab@duck.com can still receive your news and emails about JM!  
 ChatGPT will still work hard!  
-*** The theme is switched to "Several Strange Things about JM"!***  
+***The theme is switched to "Several Strange Things about JM"!***  
 
 ## （1）没有高级管理团队，只有董事长和部门经理；  
 ## （2）被离职的人会被拉回来继续工作；  
