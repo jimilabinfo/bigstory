@@ -8,6 +8,9 @@ jimilab@duck.com can still receive your news and emails about JM!
 ChatGPT will still work hard!  
 ***The theme is switched to "Several Strange Things about JM"!***  
 
+JM是某个人的大大的玩具。因为下面这些奇葩的事情，都只会发生在过家家的游戏中，而不会出现在常规的生意中。  
+JM is someone's big toy. Because the following weird things will only happen in house-playing games, not in regular business.
+
 ## 1. 没有高级管理团队，只有董事长和部门经理；  
 ## 2. 被离职的人会被拉回来继续工作；  
 ## 3. 拥有庞大的硬件团队，来完成持续不断的硬件降本；  
