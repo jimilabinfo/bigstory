@@ -28,7 +28,7 @@ JM is someone's big toy. Because the following weird things will only happen in 
 ## 最奇葩的是，JM倔强的活到了现在  
 俗话说得好，一头猪站在风口上，也能飞起来。JM之前运气不错，有了一点资本、技术和人才的积累。  
 虽然几度IPO搁浅，虽然几度危机重重，JM之前有贵人相助，有了一次次翻身的奇迹。  
-但是，人散了，起运也会转折；势变了，奇迹终将离去。
+但是，人散了，气运也会转折；势变了，奇迹终将离去。
 
 ## 1. There is no senior management team, only the chairman and department managers;  
 ## 2. Those who have been resigned will be pulled back to continue working;  
