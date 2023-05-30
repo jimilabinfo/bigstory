@@ -18,7 +18,7 @@ JM is someone's big toy. Because the following weird things will only happen in 
 这一点的确让人目瞪口呆。在JM，一个人即使被辞退，你也要做好哪一天他还会回来和你做同事的心理准备。这样的事情可不是个别案例哦，而且被请回来的人大部分都是中高层管理人员。
 
 ## 3. 拥有庞大的硬件团队，来完成持续不断的硬件降本；  
-这个团队是董事长的。过去的十几年里，他们从一个方案商成长到将近50人的规模，再加上将近50人的嵌入式软件团队，规模已经很大了。如果每天的工作变成了重复的降本，那么价值就变得有限了。JM是一家很热衷于硬件降本的公司。所以很多芯片公司愿意给JM提供新的芯片，从而在JM身上完成量产初期的bug发现和修复。 
+这个团队是董事长的。过去的十几年里，他们从一个方案商成长到将近50人硬件工程的团队，再加上将近50人的嵌入式软件团队，规模已经很大了。如果每天的工作变成了重复的降本，那么价值就变得有限了。JM是一家很热衷于硬件降本的公司。所以很多芯片公司愿意给JM提供新的芯片，从而在JM身上完成量产初期的bug发现和修复。 
 
 ## 4. 裁员不给补偿金；  
 已经有很多人成功通过劳动仲裁拿到了赔偿金，包括N+1个月的薪资，以及少缴偷缴的社保公积金。JM公司看起来强大，但是你一申请劳动仲裁，他就立刻变软说能不能调解。之前很多员工本着多一事不如少一事的原则，常常选择同意调解。但是，也有一部分员工，开始坚定的拒绝调解，让法院开庭审理。最终这些败诉记录都会成为JM的污点。并且，大家记住，在深圳，只要你赢了诉讼，那么连 **5000元的律师费**都是由JM来承担的。如果你需要这样的律师，请联系本文开头的邮箱。  
@@ -46,7 +46,7 @@ For a chairman, nearly 20 departments under him have to report to him. Is it pos
 This is indeed jaw-dropping. In JM, even if a person is fired, you have to be mentally prepared that one day he will come back and be your colleague. This kind of thing is not an isolated case, and most of the people invited back are middle and high-level managers.
 
 ## 3. Have a huge hardware team to complete continuous hardware cost down;  
-This team is owned by the chairman. In the past ten years, they have grown from a solution provider to a scale of nearly 50 people, plus an embedded software team of nearly 50 people, the scale is already very large. If daily work becomes repetitive cost reduction, then the value becomes limited. JM is a company that is very keen on reducing hardware costs. Therefore, many chip companies are willing to provide JM with new chips, so as to complete the bug discovery and repair in the early stage of mass production on JM.
+This team is owned by the chairman. In the past ten years, they have grown from a solution provider to a scale of nearly 50 hardware engineers, plus an embedded software team of nearly 50 people, the scale is already very large. If daily work becomes repetitive cost reduction, then the value becomes limited. JM is a company that is very keen on reducing hardware costs. Therefore, many chip companies are willing to provide JM with new chips, so as to complete the bug discovery and repair in the early stage of mass production on JM.
 
 ## 4. No compensation for layoffs;  
 Many people have successfully obtained compensation through labor arbitration, including N+1 months' salary, and underpaid social security provident funds. JM Company seems powerful, but as soon as you apply for labor arbitration, he immediately softens and asks whether mediation is possible. In the past, many employees often chose to agree to mediation based on the principle that more things are worse than less things. However, some employees began to firmly refuse mediation and let the court hold a trial. In the end, these losing records will become a stain on JM. And, remember, in Shenzhen, as long as you win the lawsuit, even the 5,000 legal fees will be borne by JM. If you need such a lawyer, please contact the mailbox at the beginning of this article.  
