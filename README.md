@@ -33,6 +33,8 @@ JM is someone's big toy. Because the following weird things will only happen in 
 
 ## 6. JM总是处于动荡过程中，并且每一次动荡后公司就处于一个非常诡异的状态，甚至严格控制员工的言论自由；  
 貌似JM的组织架构很难稳定持续一年以上的时间，人来人往，往往让员工对未来的发展缺乏清晰的认知。
+不知道谁会向领导打小报告，致使员工关系显得很诡异。  
+JM还通过技术手段监控员工的钉钉、微信、邮箱，所以员工不愿意在公司电脑登录任何个人账号。小心谨慎是在JM工作的必备技能。  
 
 ## 最奇葩的是，JM倔强的活到了现在  
 俗话说得好，一头猪站在风口上，也能飞起来。JM之前运气不错，有了一点资本、技术和人才的积累。  
@@ -58,7 +60,9 @@ It is very rare in Chinese technology companies. R & D personnel of JM Company, 
 This has a lot to do with the company's actual controller, Gao,'s academic qualifications, strategic vision, and long-term planning capabilities. He learned hardware development, but he could not authorize other executives to make decisions and implement long-term technology strategies.  
 
 ## 6. JM is always in the process of turmoil, and after each turmoil, the company is in a very strange state, and even strictly controls the freedom of speech of employees;
-It seems that JM's organizational structure is difficult to stabilize for more than a year. People come and go, which often makes employees lack a clear understanding of future development.
+It seems that JM's organizational structure is difficult to stabilize for more than a year. People come and go, which often makes employees lack a clear understanding of future development.  
+I don't know who will report to the leader, which makes the relationship between employees seem very strange.  
+JM also monitors employees' DingTalk, WeChat, and mailboxes through technical means, so employees are unwilling to log in to any personal accounts on company computers. Caution is an essential skill for working at JM.
 
 ## The most amazing thing is that JM stubbornly survived till now  
 As the saying goes, a pig can fly if it stands on the wind. JM was lucky before, with a little accumulation of capital, technology and talents.  
