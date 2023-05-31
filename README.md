@@ -11,6 +11,9 @@ ChatGPT will still work hard!
 JM是某个人的大大的玩具。因为下面这些奇葩的事情，都只会发生在过家家的游戏中，而不会出现在常规的生意中。  
 JM is someone's big toy. Because the following weird things will only happen in house-playing games, not in regular business.
 
+得道多助, 失道寡助  
+A just cause enjoys abundant support while an unjust cause finds little support
+
 ## 1. 没有高级管理团队，只有董事长和部门经理；  
 一个董事长，下面将近20个部门都要向他汇报工作，请问这样的公司治理机制有可能获得一个很高效率的工作结果吗？
 
