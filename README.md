@@ -34,10 +34,12 @@ A just cause enjoys abundant support while an unjust cause finds little support
 这在中国的科技公司里非常罕见。JM公司的研发人员，还有一部分专科生。所以，JM看起来不太像一个科技公司，而是一个贸易公司，JM只是在GPS和通信芯片方面的基础上，进行了集成开发。  
 这和这个公司实际控制人Gao的学识学历、战略眼光、长远谋划的能力有极大的关系。他是学硬件开发的，又不能授权给其它高级管理者来决策和实施长远的技术战略。
 
-## 6. JM总是处于动荡过程中，并且每一次动荡后公司就处于一个非常诡异的状态，甚至严格控制员工的言论自由；  
-貌似JM的组织架构很难稳定持续一年以上的时间，人来人往，往往让员工对未来的发展缺乏清晰的认知。
-不知道谁会向领导打小报告，致使员工关系显得很诡异。  
-JM还通过技术手段监控员工的钉钉、微信、邮箱，所以员工不愿意在公司电脑登录任何个人账号。小心谨慎是在JM工作的必备技能。  
+## 6. JM总是处于动荡的状态中，使得公司处于一个非常诡异的状态；  
+JM的组织架构很难稳定持续一年以上的时间，人来人往，往往让员工对未来的发展缺乏清晰的认知。
+大家在公司里谨言慎行，因为不知道谁会向领导打小报告，致使员工关系显得很诡异。  
+
+## 7. JM喜欢探查员工的隐私，这来源于老板的喜好；  
+JM通过技术手段监控员工的钉钉、微信、邮箱，所以员工不愿意在公司电脑登录任何个人账号。一旦你被公司发现和某些前员工保持私人联系，你也会因此受到严厉的处罚。
 
 ## 最奇葩的是，JM倔强的活到了现在  
 俗话说得好，一头猪站在风口上，也能飞起来。JM之前运气不错，有了一点资本、技术和人才的积累。  
@@ -60,14 +62,16 @@ Remember, when you leave your job, you don't need to sign any documents. Those d
 ## 5. There are more than 400 people, but there are few master degree engineers, and there is no investment in key technology;  
 Over the years, JM has been reluctant to invest in technology such as core algorithms. Therefore, in terms of rapid acceleration, rapid deceleration, sharp turn, collision detection, etc. based on gsensor, the performance of the product is not good. In the field of DVR products, there is almost no investment in any core technology.  
 It is very rare in Chinese technology companies. R & D personnel of JM Company, and some junior college students. Therefore, JM does not look like a technology company, but a trading company. JM only conducts integrated development on the basis of GPS and communication chips.  
-This has a lot to do with the company's actual controller, Gao,'s academic qualifications, strategic vision, and long-term planning capabilities. He learned hardware development, but he could not authorize other executives to make decisions and implement long-term technology strategies.  
+This has a lot to do with the company's actual controller, Gao,'s academic qualifications, strategic vision, and long-term planning capabilities. He learned hardware development, but he could not authorize other executives to make decisions and implement long-term technology strategies.
 
-## 6. JM is always in the process of turmoil, and after each turmoil, the company is in a very strange state, and even strictly controls the freedom of speech of employees;
-It seems that JM's organizational structure is difficult to stabilize for more than a year. People come and go, which often makes employees lack a clear understanding of future development.  
-I don't know who will report to the leader, which makes the relationship between employees seem very strange.  
-JM also monitors employees' DingTalk, WeChat, and mailboxes through technical means, so employees are unwilling to log in to any personal accounts on company computers. Caution is an essential skill for working at JM.
+## 6. JM is always in a state of turmoil, which makes the company in a very strange state;
+It is difficult for JM's organizational structure to be stable for more than a year. People come and go, which often makes employees lack a clear understanding of future development.  
+Everyone is cautious in their words and deeds in the company, because they don't know who will report to the leader, which makes the relationship between employees seem very strange.
 
-## The most amazing thing is that JM stubbornly survived till now  
+## 7. JM likes to probe employees' privacy, which comes from the preference of the boss;
+JM uses technical means to monitor employees' DingTalk, WeChat, and mailboxes, so employees are unwilling to log in to any personal accounts on the company computer. Once you are found by the company to maintain personal contact with certain former employees, you will also be severely punished for this.
+
+## The most 'amazing' thing is that JM stubbornly survived till now
 As the saying goes, a pig can fly if it stands on the wind. JM was lucky before, with a little accumulation of capital, technology and talents.  
 Although the IPO was stranded several times, although there were many crises several times, JM had the help of noble people before, and there were miracles of turning over again and again.  
 However, if the people are scattered, the fortune will also turn around; if the situation changes, the miracle will eventually leave.
