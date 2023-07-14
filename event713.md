@@ -3,7 +3,7 @@
 人家两口子打架，这个女人非得要介入人家的家事。
 
 他兴冲冲的率领一帮男人，顶着炎炎夏日，走了一公里多，到了一个她以为的公司，开始了各种骚操作。
-[在路上](ttps://github.com/jimilabinfo/bigstory/blob/main/713-0.jpg "在路上")
+![在路上，气势汹汹](https://github.com/jimilabinfo/bigstory/blob/main/713-0.jpg)
 
 她的目的是什么呢？
 
