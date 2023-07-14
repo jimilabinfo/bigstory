@@ -14,7 +14,6 @@
 从面相上来看，这个女的戾气很重，同时心理力量也比较强大。老高对她的评价是：这是个真小人，但是确实现阶段也可以作为一把锋利的刀和咬人的狗来用。作为一把刀，也要早做准备，因为终有鸟尽弓藏的那一天啊。
 
 从视频上手臂的皮肤来看，确实也有点松弛了。毕竟岁月不饶人啊。阿姨，保养很重要滴。
-<video src="https://github.com/jimilabinfo/bigstory/blob/main/713-1.mp4" width="800px" height="600px" controls="controls"></video>
 [视频1](https://github.com/jimilabinfo/bigstory/blob/main/713-1.mp4 "视频1")
 [视频2](https://github.com/jimilabinfo/bigstory/blob/main/713-2.mp4 "视频2")
 [视频3](https://github.com/jimilabinfo/bigstory/blob/main/713-3.mp4 "视频3")
