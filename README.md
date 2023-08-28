@@ -48,6 +48,9 @@ JM的组织架构很难稳定持续一年以上的时间，人来人往，往往
 虽然几度IPO搁浅，虽然几度危机重重，JM之前有贵人相助，有了一次次翻身的奇迹。  
 但是，人散了，气运也会转折；势变了，奇迹终将离去。
 
+![image](https://github.com/jimilabinfo/bigstory/assets/133297287/0004dec6-cf18-4e66-bdbd-4fd8d66da50a)
+
+
 ## 1. JM likes to probe employees' privacy, which comes from the preference of the boss;
 JM uses technical means to monitor employees' DingTalk, WeChat, and mailboxes, so employees are unwilling to log in to any personal accounts on the company computer. Once you are found by the company to maintain personal contact with certain former employees, you will also be severely punished for this.
 
